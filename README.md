@@ -1,9 +1,12 @@
 ### Hello World, I'm Maksym  👋
-<br />
-<br />
+
+
+
+
  <img align="right" alt="GIF" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="460" height="320" />
-<br />
-<br />
+
+
+
 
 ## I'm a Developer
 - 🌱 I’m currently learning everything 
@@ -13,7 +16,7 @@
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+
 
 ### Languages and Tools:
 
