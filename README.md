@@ -1,6 +1,6 @@
 ### Hello World, I'm Maksym  👋
 
- <img align="right" alt="GIF" src="https://tenor.com/brXT6.gif" width="600" height="320" />
+ <img align="right" alt="GIF" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" width="700" height="320" />
 
 
 ## I'm a Developer
