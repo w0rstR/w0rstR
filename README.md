@@ -1,6 +1,6 @@
 ### Hello World, I'm Maksym  👋
 
- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="320" />
 
 
 ## I'm a Developer
