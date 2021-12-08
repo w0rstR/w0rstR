@@ -1,4 +1,4 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Maksym  👋
 
  <img align="right" alt="GIF" src="https://i.gifer.com/FBtM.gif" width="500" height="320" />
 
