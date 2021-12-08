@@ -31,9 +31,8 @@
 
 <br />
 <br />
-
 ---
 
 
-[instagram]: https://www.instagram.com/msaturchak/
-[linkedin]: https://www.linkedin.com/in/maksym-saturchak-803709210/
+[instagram]: https://www.instagram.com/holistic_developer/
+[linkedin]: https://linkedin.com/in/annaarsentieva
