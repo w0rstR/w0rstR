@@ -1,4 +1,4 @@
-
+<img align="right" alt="GIF" src="https://tenor.com/view/coding-gif-18657810" width="500" height="320" />
 Hi there, I'm Maksyn - aka [w0rst] 👋
 
 
