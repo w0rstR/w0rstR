@@ -1,6 +1,6 @@
 ### Hello World, I'm Maksym  👋
 
- <img align="right" alt="GIF" src="https://pin.it/2Bf5nWJ" width="600" height="320" />
+ <img align="right" alt="GIF" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="600" height="320" />
 
 
 ## I'm a Developer
