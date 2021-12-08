@@ -1,6 +1,6 @@
 ### Hello World, I'm Maksym  👋
 
- <img align="right" alt="GIF" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="460" height="320" />
 
 
 ## I'm a Developer
