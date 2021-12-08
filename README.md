@@ -19,7 +19,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][youtube]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][youtube]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][youtube]
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][youtube]
 
 
 <br />
@@ -28,7 +27,8 @@
 
 
 
-
+[website]: https://holistic-developer.com/
+[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
