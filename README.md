@@ -1,8 +1,7 @@
-### Hi there 👋
 
-<!--
-**w0rstR/w0rstR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Hi there, I'm Maksyn - aka [w0rst] 👋
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
