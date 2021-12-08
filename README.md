@@ -1,8 +1,6 @@
 ### Hello World, I'm Maksym  👋
 
 
-
-
  <img align="right" alt="GIF" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="460" height="320" />
 
 
@@ -41,8 +39,5 @@
 ---
 
 
-
-
 [instagram]: https://www.instagram.com/msaturchak/
 [linkedin]: https://www.linkedin.com/in/maksym-saturchak-803709210/
-
