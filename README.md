@@ -4,13 +4,8 @@
 
 
 ## I'm a Developer
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 🌱 I’m currently learning everything 
+- ⚡ Interested in Front-end Development
 
 
 ### Talk with me, I am kinda awesome:
