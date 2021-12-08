@@ -1,7 +1,9 @@
 ### Hello World, I'm Maksym  👋
-
+<br />
+<br />
  <img align="right" alt="GIF" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="460" height="320" />
-
+<br />
+<br />
 
 ## I'm a Developer
 - 🌱 I’m currently learning everything 
@@ -37,8 +39,7 @@
 
 
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+
+[instagram]: https://www.instagram.com/msaturchak/
+[linkedin]: https://www.linkedin.com/in/maksym-saturchak-803709210/
+
