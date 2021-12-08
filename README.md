@@ -1,6 +1,6 @@
 ### Hello World, I'm Maksym  👋
 
- <img align="right" alt="GIF" src="https://i.gifer.com/FBtM.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://pin.it/2Bf5nWJ" width="600" height="320" />
 
 
 ## I'm a Developer
